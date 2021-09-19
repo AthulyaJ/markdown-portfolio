@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+<ol>
+  <li>trip</li>
+  <li>cycling</li>
+  <li>sleeping</li>
+</ol>
