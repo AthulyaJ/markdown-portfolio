@@ -1,0 +1,5 @@
+
+* trip
+ * cycling
+*  sleeping
+
